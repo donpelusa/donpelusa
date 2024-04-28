@@ -9,7 +9,7 @@ Actualmente me encuentro en:
 
 
 
-## 🧐 Sobre <a name = "sobre"></a>
+## 🧐 Sobre mí<a name = "sobre"></a>
 
 Soy chileno, nacido en Copiapó pero "aporteñado" desde muy pequeño en Valparaíso.
 Tengo 38 años y vivo con mi familia 🐈🙋‍♀️ en Santiago, respirando código y smog a diario.
